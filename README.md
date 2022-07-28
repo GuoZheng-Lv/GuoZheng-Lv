@@ -1,7 +1,8 @@
 ### Hey，我是神奇的程序员
 <br />
 
-你好， 我是 [神奇的程序员](https://juejin.cn/user/3984285870859614) ，出生于2000年，一位有3年工作经验的前端开发工程师。
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+你好， 我是 [神奇的程序员](https://juejin.cn/user/3013082168171613) ，一位有2年工作经验的前端开发工程师。
 
 你可能很好奇我的经历，正常来讲，这个年龄应该大学刚毕业，而你就已经有3年的工作经验了。此事说来话长，感兴趣的开发者请移步：[一枚19岁程序员的自学之路](https://juejin.cn/post/6844904025746309133)
 
